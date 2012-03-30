@@ -1,0 +1,48 @@
+/* CSS Document */
+body {
+				margin:0;
+     }
+
+
+.header{ 
+				 background-image:url(images/gradient.png); 
+				 background-repeat:repeat-x;
+				 height:78px;
+			 }
+.liner{ 
+				 background-color:#0A6184;
+				 height:19px;
+       }
+
+	   
+	   
+.footer{ 
+					border-top:1px solid gray;
+					clear: both;
+					color: #9EC1CF;
+					font-size: 11px;
+					text-align: center;
+				}
+
+.login {
+			 height: 220px;
+			 width: 366px;
+			}
+
+.top {
+    background-color: #7B7A79;
+    height: 20px;
+    width: 366px;
+}
+
+.logback {
+    background-color: #EBF4FB;
+    height: 220px;
+    width: 366px;
+}
+
+.view_main a:visited {	background-color:#9FF;
+}
+
+
+
